@@ -76,5 +76,7 @@ I've completed the analysis of our retail receipt data and wanted to share key i
 I've prepared detailed visualizations showing these trends and would be happy to walk through the findings in our next strategy meeting.
 
 Best regards,
+
 Joseph
+
 Future Sr.Data Analyst
