@@ -80,4 +80,4 @@ Best regards,
 
 Joseph
 
-Future Sr.Data Analyst
+Future Sr. Data Analyst
